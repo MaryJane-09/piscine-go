@@ -3,8 +3,8 @@ package main
 import "github.com/01-edu/z01"
 
 // func main() {
-// 	alpha := "0123456789"
-// 	for _, i := range alpha {
+// 	num := "0123456789"
+// 	for _, i := range num {
 // 		z01.PrintRune(i)
 // 	}
 // 	z01.PrintRune('\n')
